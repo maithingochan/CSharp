@@ -1,0 +1,13 @@
+C:\Users\REVENDELL\source\repos\BT10-05\BT10-05\bin\Debug\netcoreapp3.1\BT10-05.exe
+C:\Users\REVENDELL\source\repos\BT10-05\BT10-05\bin\Debug\netcoreapp3.1\BT10-05.deps.json
+C:\Users\REVENDELL\source\repos\BT10-05\BT10-05\bin\Debug\netcoreapp3.1\BT10-05.runtimeconfig.json
+C:\Users\REVENDELL\source\repos\BT10-05\BT10-05\bin\Debug\netcoreapp3.1\BT10-05.runtimeconfig.dev.json
+C:\Users\REVENDELL\source\repos\BT10-05\BT10-05\bin\Debug\netcoreapp3.1\BT10-05.dll
+C:\Users\REVENDELL\source\repos\BT10-05\BT10-05\bin\Debug\netcoreapp3.1\BT10-05.pdb
+C:\Users\REVENDELL\source\repos\BT10-05\BT10-05\obj\Debug\netcoreapp3.1\BT10-05.csproj.AssemblyReference.cache
+C:\Users\REVENDELL\source\repos\BT10-05\BT10-05\obj\Debug\netcoreapp3.1\BT10-05.AssemblyInfoInputs.cache
+C:\Users\REVENDELL\source\repos\BT10-05\BT10-05\obj\Debug\netcoreapp3.1\BT10-05.AssemblyInfo.cs
+C:\Users\REVENDELL\source\repos\BT10-05\BT10-05\obj\Debug\netcoreapp3.1\BT10-05.csproj.CoreCompileInputs.cache
+C:\Users\REVENDELL\source\repos\BT10-05\BT10-05\obj\Debug\netcoreapp3.1\BT10-05.dll
+C:\Users\REVENDELL\source\repos\BT10-05\BT10-05\obj\Debug\netcoreapp3.1\BT10-05.pdb
+C:\Users\REVENDELL\source\repos\BT10-05\BT10-05\obj\Debug\netcoreapp3.1\BT10-05.genruntimeconfig.cache
